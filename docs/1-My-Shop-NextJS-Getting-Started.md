@@ -65,60 +65,7 @@ npm install
 
 ------------------------------------------------------------------------
 
-## Step 5: Install Third-Party Libraries
-
-As your application grows, you'll use additional libraries to simplify
-common tasks.
-
-For this project, install the following packages:
-
-## Axios
-
-Axios is used to make HTTP requests to APIs.
-
-Install it with:
-
-``` bash
-npm install axios
-```
-
-Example:
-
-``` ts
-import axios from "axios";
-```
-
-------------------------------------------------------------------------
-
-## Zustand
-
-Zustand is a lightweight state management library for React.
-
-Install it with:
-
-``` bash
-npm install zustand
-```
-
-Example:
-
-``` ts
-import { create } from "zustand";
-```
-
-------------------------------------------------------------------------
-
-## Install Both at Once
-
-You can install both libraries with a single command:
-
-``` bash
-npm install axios zustand
-```
-
-------------------------------------------------------------------------
-
-## Step 6: Run the App
+## Step 5: Run the App
 
 ``` bash
 npm run dev
