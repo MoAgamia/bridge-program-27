@@ -131,6 +131,23 @@ It works perfectly with React Hook Form.
 
 ---
 
+# 10. Deploy on Vercel
+
+Once your application is finished, you'll want to make it available online.
+
+Vercel is the easiest way to deploy Next.js applications.
+
+### Why Vercel?
+
+- Created by the team behind Next.js
+- Free for personal projects
+- Automatic deployments from GitHub
+- Fast global hosting
+- Custom domains
+- Preview deployments for every commit
+
+---
+
 # Learning Order
 
 1. Next.js
