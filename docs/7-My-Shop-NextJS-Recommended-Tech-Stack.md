@@ -4,6 +4,9 @@ As you continue learning React and Next.js, you'll start using more tools that m
 
 Don't worry about learning everything at once. Learn each tool when you actually need it.
 
+A very good place to start is looking at Developer Roadmap.
+Link: https://github.com/nilbuild/developer-roadmap
+
 ---
 
 # 1. Next.js
